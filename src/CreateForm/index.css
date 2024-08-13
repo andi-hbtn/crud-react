@@ -1,0 +1,14 @@
+.form-container {
+	width: 80%;
+	margin: 0 auto;
+}
+
+.form-field>div,
+.buton-container {
+	width: 60%;
+	margin: 10px auto;
+}
+
+.buton-container>button {
+	width: 150px;
+}
